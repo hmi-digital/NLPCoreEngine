@@ -16,7 +16,7 @@ This was implemented and tested on windows 10 – (Windows Subsystem for Linux) 
 ### Docker build and run
 - Build the docker by running following command at root of your folder
 ```sh
-$ docker build . -t aria_nlp:latest
+$ docker build . -t ariabot:latest
 ```
 - Run the docker 
 ```sh
